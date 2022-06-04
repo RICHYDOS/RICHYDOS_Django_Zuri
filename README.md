@@ -1,0 +1,2 @@
+# RICHYDOS
+ Django Project Folder
